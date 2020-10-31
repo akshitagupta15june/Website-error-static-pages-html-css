@@ -9,6 +9,7 @@ body{
 	width:100%;
 	position: absolute;
 	top: 50%;
+
 	transform: translateY(-50%);
 	text-align: center;
 	color: #343434
@@ -19,7 +20,7 @@ body{
 	color: white;
 	font-weight: 900;
 	letter-spacing: 20px;
-	background: url(/home/akshita/Desktop/coding_ninja/error.jpeg) center;
+	background: url(/home/akshita/Pictures/back.jpeg) center;
 	-webkit-text-fill-color:transparent;
 	-webkit-background-clip:text;
 
@@ -36,6 +37,8 @@ body{
 	transition: 0.4s;
 }
 .container a:hover{
-	background: #e55039;
+
+	background: #e55036;
+
 	
 }
